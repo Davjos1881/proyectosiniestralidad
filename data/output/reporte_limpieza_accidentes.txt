@@ -1,0 +1,40 @@
+======================================================================
+DATASET 1: siniestralidad_2016_2024.csv
+======================================================================
+Filas originales: 371,003
+- Filas sin código/fecha/severidad eliminadas: 3
+- Duplicados exactos eliminados: 4
+- Fechas no parseables: 0
+- Registros 'Negativo' descartados: 246,107 (66.3%)
+- Severidad sin mapear (descartadas): 0
+
+Filas finales: 124,889  (33.7% de las originales)
+Rango de fechas: 2016-01-01 → 2024-11-02
+Códigos duplicados restantes: 0
+
+Severidad:
+severidad
+Solo daños       74029
+Con lesionado    47500
+Con fallecido     3360
+
+Cobertura de dirección VÁLIDA por severidad (clave para geocodificar):
+               con_direccion  total   pct
+severidad                                
+Con fallecido            740   3360  22.0
+Con lesionado          25855  47500  54.4
+Solo daños             24851  74029  33.6
+Cobertura global de dirección válida: 41.2%
+
+Filas por año y severidad:
+severidad  Con fallecido  Con lesionado  Solo daños
+anio                                               
+2016                 362           8215        7936
+2017                 394           6985        9637
+2018                 451           6475       16428
+2019                 392           5974       17142
+2020                 392           4167        9437
+2021                 374           4175        7101
+2022                 384           4131        5464
+2023                 387           3963         566
+2024                 224           3415         318

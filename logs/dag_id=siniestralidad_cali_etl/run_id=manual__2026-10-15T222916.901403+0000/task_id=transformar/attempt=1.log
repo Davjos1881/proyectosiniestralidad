@@ -1,0 +1,22 @@
+[2026-10-15T22:29:26.334+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-10-15T22:29:26.358+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: siniestralidad_cali_etl.transformar manual__2026-10-15T22:29:16.901403+00:00 [queued]>
+[2026-10-15T22:29:26.373+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: siniestralidad_cali_etl.transformar manual__2026-10-15T22:29:16.901403+00:00 [queued]>
+[2026-10-15T22:29:26.375+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 2
+[2026-10-15T22:29:26.390+0000] {taskinstance.py:2890} INFO - Executing <Task(_PythonDecoratedOperator): transformar> on 2026-10-15 22:29:16.901403+00:00
+[2026-10-15T22:29:26.398+0000] {standard_task_runner.py:72} INFO - Started process 605 to run task
+[2026-10-15T22:29:26.401+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'siniestralidad_cali_etl', 'transformar', 'manual__2026-10-15T22:29:16.901403+00:00', '--job-id', '36', '--raw', '--subdir', 'DAGS_FOLDER/siniestralidad_etl.py', '--cfg-path', '/tmp/tmpj7xkjkdw']
+[2026-10-15T22:29:26.406+0000] {standard_task_runner.py:105} INFO - Job 36: Subtask transformar
+[2026-10-15T22:29:26.463+0000] {task_command.py:467} INFO - Running <TaskInstance: siniestralidad_cali_etl.transformar manual__2026-10-15T22:29:16.901403+00:00 [running]> on host b52cba388226
+[2026-10-15T22:29:26.577+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='siniestralidad_cali_etl' AIRFLOW_CTX_TASK_ID='transformar' AIRFLOW_CTX_EXECUTION_DATE='2026-10-15T22:29:16.901403+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-10-15T22:29:16.901403+00:00'
+[2026-10-15T22:29:26.579+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2026-10-15T22:29:27.583+0000] {logging_mixin.py:190} INFO - dim_fecha: 3,653 filas
+[2026-10-15T22:29:27.778+0000] {logging_mixin.py:190} INFO - fact_siniestros: 124,889 filas
+[2026-10-15T22:29:27.877+0000] {logging_mixin.py:190} INFO - fact_lesionados: 51,234 filas
+[2026-10-15T22:29:27.903+0000] {logging_mixin.py:190} INFO - agg_siniestros_mensual: 975 filas
+[2026-10-15T22:29:27.927+0000] {logging_mixin.py:190} INFO - agg_lesionados_hora: 1,674 filas
+[2026-10-15T22:29:27.938+0000] {python.py:240} INFO - Done. Returned value was: {'dim_fecha': '/opt/airflow/data/staging/t_dim_fecha.parquet', 'fact_siniestros': '/opt/airflow/data/staging/t_fact_siniestros.parquet', 'fact_lesionados': '/opt/airflow/data/staging/t_fact_lesionados.parquet', 'agg_siniestros_mensual': '/opt/airflow/data/staging/t_agg_siniestros_mensual.parquet', 'agg_lesionados_hora': '/opt/airflow/data/staging/t_agg_lesionados_hora.parquet'}
+[2026-10-15T22:29:27.975+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2026-10-15T22:29:27.977+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=siniestralidad_cali_etl, task_id=transformar, run_id=manual__2026-10-15T22:29:16.901403+00:00, execution_date=20261015T222916, start_date=20261015T222926, end_date=20261015T222927
+[2026-10-15T22:29:28.063+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2026-10-15T22:29:28.086+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-10-15T22:29:28.089+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

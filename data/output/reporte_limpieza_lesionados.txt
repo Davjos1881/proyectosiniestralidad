@@ -1,0 +1,53 @@
+
+======================================================================
+DATASET 2: lesionados-en-santiago-de-cali-del-2016-2025.csv
+======================================================================
+Filas originales: 51,236
+- Duplicados exactos eliminados: 2
+- Filas con fecha en formato m/d/Y (desde 7-sep-2025): 235
+- Fechas no parseables: 0
+- Cola m/d/Y cronológica tras corrección: True
+- Horas en formato 12h (a.m./p.m.) convertidas: 956
+- Horas en fracción de día (Excel) convertidas: 100
+- Horas no parseables: 1
+
+Filas finales: 51,234  (100.0% de las originales)
+Rango de fechas: 2016-01-01 → 2025-09-27
+Cobertura de hora válida: 100.00%
+Cobertura de dirección válida: 57.0%
+Cobertura de actor vial: 33.1%
+Registros con detalle contradictorio (marcados, no eliminados): 120
+
+Lesionados por hora (corregido):
+hora
+0     1101
+1      810
+2      655
+3      521
+4      498
+5      866
+6     2241
+7     3441
+8     3099
+9     2530
+10    2603
+11    2486
+12    2548
+13    2763
+14    3006
+15    2844
+16    2836
+17    3035
+18    2796
+19    2615
+20    2266
+21    2227
+22    1864
+23    1582
+
+Lesionados por franja:
+franja_horaria
+Tarde (12-17)      17032
+Mañana (6-11)      16400
+Noche (18-23)      13350
+Madrugada (0-5)     4451

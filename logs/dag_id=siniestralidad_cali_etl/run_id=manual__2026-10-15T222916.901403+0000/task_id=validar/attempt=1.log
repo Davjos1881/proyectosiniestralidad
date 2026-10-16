@@ -1,0 +1,22 @@
+[2026-10-15T22:29:42.220+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-10-15T22:29:42.248+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: siniestralidad_cali_etl.validar manual__2026-10-15T22:29:16.901403+00:00 [queued]>
+[2026-10-15T22:29:42.261+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: siniestralidad_cali_etl.validar manual__2026-10-15T22:29:16.901403+00:00 [queued]>
+[2026-10-15T22:29:42.263+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 2
+[2026-10-15T22:29:42.277+0000] {taskinstance.py:2890} INFO - Executing <Task(_PythonDecoratedOperator): validar> on 2026-10-15 22:29:16.901403+00:00
+[2026-10-15T22:29:42.284+0000] {standard_task_runner.py:72} INFO - Started process 675 to run task
+[2026-10-15T22:29:42.287+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'siniestralidad_cali_etl', 'validar', 'manual__2026-10-15T22:29:16.901403+00:00', '--job-id', '38', '--raw', '--subdir', 'DAGS_FOLDER/siniestralidad_etl.py', '--cfg-path', '/tmp/tmpzqrdw7b_']
+[2026-10-15T22:29:42.291+0000] {standard_task_runner.py:105} INFO - Job 38: Subtask validar
+[2026-10-15T22:29:42.350+0000] {task_command.py:467} INFO - Running <TaskInstance: siniestralidad_cali_etl.validar manual__2026-10-15T22:29:16.901403+00:00 [running]> on host b52cba388226
+[2026-10-15T22:29:42.454+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='siniestralidad_cali_etl' AIRFLOW_CTX_TASK_ID='validar' AIRFLOW_CTX_EXECUTION_DATE='2026-10-15T22:29:16.901403+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-10-15T22:29:16.901403+00:00'
+[2026-10-15T22:29:42.456+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2026-10-15T22:29:42.765+0000] {logging_mixin.py:190} INFO - dim_fecha: esperadas=3,653 en_mysql=3,653
+[2026-10-15T22:29:42.810+0000] {logging_mixin.py:190} INFO - fact_siniestros: esperadas=124,889 en_mysql=124,889
+[2026-10-15T22:29:42.830+0000] {logging_mixin.py:190} INFO - fact_lesionados: esperadas=51,234 en_mysql=51,234
+[2026-10-15T22:29:42.835+0000] {logging_mixin.py:190} INFO - agg_siniestros_mensual: esperadas=975 en_mysql=975
+[2026-10-15T22:29:42.840+0000] {logging_mixin.py:190} INFO - agg_lesionados_hora: esperadas=1,674 en_mysql=1,674
+[2026-10-15T22:29:42.844+0000] {python.py:240} INFO - Done. Returned value was: None
+[2026-10-15T22:29:42.857+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2026-10-15T22:29:42.860+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=siniestralidad_cali_etl, task_id=validar, run_id=manual__2026-10-15T22:29:16.901403+00:00, execution_date=20261015T222916, start_date=20261015T222942, end_date=20261015T222942
+[2026-10-15T22:29:42.945+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2026-10-15T22:29:42.965+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-10-15T22:29:42.969+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

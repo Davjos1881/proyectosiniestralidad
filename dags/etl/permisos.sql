@@ -1,0 +1,11 @@
+CREATE USER IF NOT EXISTS 'davidsp'@'%' IDENTIFIED BY 'davidsp18';
+
+GRANT SELECT, INSERT, UPDATE, DELETE,
+      CREATE, ALTER, DROP, INDEX, REFERENCES,
+      CREATE VIEW, SHOW VIEW
+ON siniestralidad_cali.*
+TO 'davidsp'@'%';
+
+FLUSH PRIVILEGES;
+
+SHOW GRANTS FOR 'davidsp'@'%';
