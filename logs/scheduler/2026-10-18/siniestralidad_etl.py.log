@@ -642,3 +642,1291 @@
 [2026-10-18T22:26:28.920+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:26:28.920+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2026-10-18T22:26:28.936+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:26:28.936+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
 [2026-10-18T22:26:28.965+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.125 seconds
+[2026-10-18T22:26:59.245+0000] {processor.py:186} INFO - Started process (PID=740) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:26:59.248+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:26:59.255+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:26:59.254+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:26:59.299+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:26:59.356+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:26:59.356+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:26:59.384+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:26:59.384+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:26:59.415+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.189 seconds
+[2026-10-18T22:27:29.625+0000] {processor.py:186} INFO - Started process (PID=745) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:27:29.628+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:27:29.634+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:27:29.633+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:27:29.684+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:27:29.748+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:27:29.748+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:27:29.781+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:27:29.780+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:27:29.831+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.220 seconds
+[2026-10-18T22:28:00.080+0000] {processor.py:186} INFO - Started process (PID=750) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:28:00.092+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:28:00.100+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:28:00.099+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:28:00.151+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:28:00.255+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:28:00.255+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:28:00.277+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:28:00.276+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:28:00.304+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.236 seconds
+[2026-10-18T22:28:30.447+0000] {processor.py:186} INFO - Started process (PID=755) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:28:30.449+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:28:30.456+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:28:30.455+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:28:30.491+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:28:30.544+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:28:30.544+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:28:30.568+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:28:30.568+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:28:30.605+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T22:29:00.921+0000] {processor.py:186} INFO - Started process (PID=760) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:29:00.923+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:29:00.930+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:29:00.930+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:29:00.977+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:29:01.042+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:29:01.042+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:29:01.075+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:29:01.074+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:29:01.114+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.204 seconds
+[2026-10-18T22:29:31.223+0000] {processor.py:186} INFO - Started process (PID=765) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:29:31.226+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:29:31.233+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:29:31.232+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:29:31.275+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:29:31.342+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:29:31.341+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:29:31.374+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:29:31.373+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:29:31.411+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.202 seconds
+[2026-10-18T22:30:01.737+0000] {processor.py:186} INFO - Started process (PID=770) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:30:01.739+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:30:01.743+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:30:01.742+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:30:01.783+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:30:01.830+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:30:01.830+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:30:01.861+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:30:01.860+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:30:01.900+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T22:30:32.308+0000] {processor.py:186} INFO - Started process (PID=775) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:30:32.310+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:30:32.315+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:30:32.314+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:30:32.351+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:30:32.392+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:30:32.392+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:30:32.417+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:30:32.417+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:30:32.450+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.154 seconds
+[2026-10-18T22:31:02.617+0000] {processor.py:186} INFO - Started process (PID=780) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:31:02.620+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:31:02.624+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:31:02.624+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:31:02.659+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:31:02.700+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:31:02.700+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:31:02.722+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:31:02.722+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:31:02.752+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.143 seconds
+[2026-10-18T22:31:33.060+0000] {processor.py:186} INFO - Started process (PID=785) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:31:33.061+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:31:33.065+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:31:33.065+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:31:33.096+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:31:33.138+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:31:33.137+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:31:33.153+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:31:33.153+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:31:33.185+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.131 seconds
+[2026-10-18T22:32:03.392+0000] {processor.py:186} INFO - Started process (PID=790) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:32:03.395+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:32:03.400+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:32:03.399+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:32:03.439+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:32:03.488+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:32:03.488+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:32:03.509+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:32:03.509+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:32:03.548+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.168 seconds
+[2026-10-18T22:32:33.815+0000] {processor.py:186} INFO - Started process (PID=795) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:32:33.818+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:32:33.824+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:32:33.824+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:32:33.874+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:32:33.941+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:32:33.940+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:32:33.971+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:32:33.970+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:32:34.017+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.214 seconds
+[2026-10-18T22:33:04.176+0000] {processor.py:186} INFO - Started process (PID=800) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:33:04.179+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:33:04.183+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:33:04.182+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:33:04.216+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:33:04.267+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:33:04.267+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:33:04.292+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:33:04.291+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:33:04.349+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.181 seconds
+[2026-10-18T22:33:34.663+0000] {processor.py:186} INFO - Started process (PID=805) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:33:34.665+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:33:34.670+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:33:34.669+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:33:34.707+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:33:34.763+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:33:34.763+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:33:34.785+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:33:34.785+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:33:34.824+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T22:34:04.999+0000] {processor.py:186} INFO - Started process (PID=810) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:34:05.001+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:34:05.008+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:34:05.007+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:34:05.044+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:34:05.089+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:34:05.089+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:34:05.110+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:34:05.109+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:34:05.147+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.158 seconds
+[2026-10-18T22:34:35.440+0000] {processor.py:186} INFO - Started process (PID=815) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:34:35.442+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:34:35.446+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:34:35.445+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:34:35.478+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:34:35.520+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:34:35.520+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:34:35.542+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:34:35.542+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:34:35.575+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.142 seconds
+[2026-10-18T22:35:05.768+0000] {processor.py:186} INFO - Started process (PID=820) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:35:05.770+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:35:05.775+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:35:05.775+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:35:05.813+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:35:05.858+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:35:05.858+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:35:05.879+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:35:05.879+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:35:05.921+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.162 seconds
+[2026-10-18T22:35:36.386+0000] {processor.py:186} INFO - Started process (PID=825) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:35:36.388+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:35:36.393+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:35:36.392+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:35:36.430+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:35:36.475+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:35:36.474+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:35:36.496+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:35:36.495+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:35:36.534+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.157 seconds
+[2026-10-18T22:36:06.688+0000] {processor.py:186} INFO - Started process (PID=830) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:36:06.690+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:36:06.694+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:36:06.693+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:36:06.729+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:36:06.778+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:36:06.778+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:36:06.799+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:36:06.799+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:36:06.840+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.161 seconds
+[2026-10-18T22:36:37.199+0000] {processor.py:186} INFO - Started process (PID=835) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:36:37.201+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:36:37.205+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:36:37.205+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:36:37.241+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:36:37.284+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:36:37.283+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:36:37.303+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:36:37.303+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:36:37.341+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.149 seconds
+[2026-10-18T22:37:07.516+0000] {processor.py:186} INFO - Started process (PID=840) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:37:07.518+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:37:07.522+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:37:07.521+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:37:07.559+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:37:07.601+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:37:07.601+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:37:07.624+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:37:07.624+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:37:07.659+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.150 seconds
+[2026-10-18T22:37:38.042+0000] {processor.py:186} INFO - Started process (PID=845) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:37:38.045+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:37:38.050+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:37:38.050+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:37:38.107+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:37:38.167+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:37:38.166+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:37:38.197+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:37:38.196+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:37:38.251+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.229 seconds
+[2026-10-18T22:38:08.412+0000] {processor.py:186} INFO - Started process (PID=850) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:38:08.414+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:38:08.418+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:38:08.418+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:38:08.459+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:38:08.508+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:38:08.508+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:38:08.535+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:38:08.534+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:38:08.578+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.174 seconds
+[2026-10-18T22:38:38.730+0000] {processor.py:186} INFO - Started process (PID=855) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:38:38.734+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:38:38.738+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:38:38.738+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:38:38.772+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:38:38.826+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:38:38.826+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:38:38.862+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:38:38.861+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:38:38.897+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.176 seconds
+[2026-10-18T22:39:09.288+0000] {processor.py:186} INFO - Started process (PID=860) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:39:09.291+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:39:09.297+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:39:09.296+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:39:09.340+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:39:09.408+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:39:09.408+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:39:09.437+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:39:09.437+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:39:09.480+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.203 seconds
+[2026-10-18T22:39:39.621+0000] {processor.py:186} INFO - Started process (PID=865) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:39:39.625+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:39:39.628+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:39:39.628+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:39:39.663+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:39:39.706+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:39:39.706+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:39:39.727+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:39:39.727+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:39:39.761+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.148 seconds
+[2026-10-18T22:40:09.956+0000] {processor.py:186} INFO - Started process (PID=870) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:40:09.959+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:40:09.963+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:40:09.963+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:40:10.013+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:40:10.071+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:40:10.071+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:40:10.115+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:40:10.115+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:40:10.165+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.219 seconds
+[2026-10-18T22:40:40.732+0000] {processor.py:186} INFO - Started process (PID=875) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:40:40.735+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:40:40.739+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:40:40.738+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:40:40.782+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:40:40.841+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:40:40.841+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:40:40.876+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:40:40.876+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:40:40.918+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.195 seconds
+[2026-10-18T22:41:11.068+0000] {processor.py:186} INFO - Started process (PID=880) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:41:11.071+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:41:11.076+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:41:11.076+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:41:11.114+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:41:11.171+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:41:11.171+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:41:11.197+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:41:11.196+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:41:11.238+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.179 seconds
+[2026-10-18T22:41:41.617+0000] {processor.py:186} INFO - Started process (PID=885) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:41:41.620+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:41:41.625+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:41:41.624+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:41:41.661+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:41:41.711+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:41:41.711+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:41:41.731+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:41:41.731+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:41:41.773+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.169 seconds
+[2026-10-18T22:42:12.006+0000] {processor.py:186} INFO - Started process (PID=890) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:42:12.008+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:42:12.012+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:42:12.011+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:42:12.044+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:42:12.090+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:42:12.089+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:42:12.111+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:42:12.110+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:42:12.150+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.153 seconds
+[2026-10-18T22:42:42.418+0000] {processor.py:186} INFO - Started process (PID=895) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:42:42.420+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:42:42.425+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:42:42.425+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:42:42.461+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:42:42.505+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:42:42.504+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:42:42.525+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:42:42.524+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:42:42.559+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.150 seconds
+[2026-10-18T22:43:12.739+0000] {processor.py:186} INFO - Started process (PID=900) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:43:12.742+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:43:12.746+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:43:12.745+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:43:12.779+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:43:12.821+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:43:12.821+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:43:12.843+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:43:12.843+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:43:12.880+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.148 seconds
+[2026-10-18T22:43:43.214+0000] {processor.py:186} INFO - Started process (PID=905) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:43:43.218+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:43:43.238+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:43:43.237+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:43:43.367+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:43:43.486+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:43:43.485+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:43:43.517+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:43:43.516+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:43:43.550+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.389 seconds
+[2026-10-18T22:44:13.999+0000] {processor.py:186} INFO - Started process (PID=910) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:44:14.010+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:44:14.016+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:44:14.015+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:44:14.059+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:44:14.147+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:44:14.147+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:44:14.207+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:44:14.206+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:44:14.260+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.289 seconds
+[2026-10-18T22:44:44.614+0000] {processor.py:186} INFO - Started process (PID=915) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:44:44.617+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:44:44.623+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:44:44.623+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:44:44.663+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:44:44.713+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:44:44.713+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:44:44.791+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:44:44.791+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:44:44.848+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.245 seconds
+[2026-10-18T22:45:15.166+0000] {processor.py:186} INFO - Started process (PID=920) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:45:15.168+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:45:15.172+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:45:15.172+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:45:15.218+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:45:15.298+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:45:15.297+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:45:15.344+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:45:15.343+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:45:15.379+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.221 seconds
+[2026-10-18T22:45:45.841+0000] {processor.py:186} INFO - Started process (PID=925) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:45:45.844+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:45:45.850+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:45:45.849+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:45:45.898+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:45:45.944+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:45:45.943+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:45:45.965+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:45:45.965+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:45:46.003+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.173 seconds
+[2026-10-18T22:46:16.160+0000] {processor.py:186} INFO - Started process (PID=930) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:46:16.163+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:46:16.168+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:46:16.167+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:46:16.204+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:46:16.250+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:46:16.249+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:46:16.270+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:46:16.270+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:46:16.309+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.159 seconds
+[2026-10-18T22:46:46.658+0000] {processor.py:186} INFO - Started process (PID=935) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:46:46.661+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:46:46.665+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:46:46.665+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:46:46.698+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:46:46.744+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:46:46.744+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:46:46.766+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:46:46.765+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:46:46.805+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.156 seconds
+[2026-10-18T22:47:16.990+0000] {processor.py:186} INFO - Started process (PID=940) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:47:16.992+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:47:16.997+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:47:16.997+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:47:17.034+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:47:17.102+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:47:17.102+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:47:17.129+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:47:17.128+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:47:17.168+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.197 seconds
+[2026-10-18T22:47:47.431+0000] {processor.py:186} INFO - Started process (PID=945) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:47:47.434+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:47:47.438+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:47:47.438+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:47:47.473+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:47:47.560+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:47:47.559+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:47:47.595+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:47:47.595+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:47:47.652+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.232 seconds
+[2026-10-18T22:48:17.775+0000] {processor.py:186} INFO - Started process (PID=950) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:48:17.777+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:48:17.782+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:48:17.781+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:48:17.825+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:48:17.871+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:48:17.871+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:48:17.891+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:48:17.890+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:48:17.929+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.163 seconds
+[2026-10-18T22:48:48.251+0000] {processor.py:186} INFO - Started process (PID=955) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:48:48.254+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:48:48.258+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:48:48.258+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:48:48.418+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:48:48.535+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:48:48.535+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:48:48.556+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:48:48.556+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:48:48.583+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.349 seconds
+[2026-10-18T22:49:18.924+0000] {processor.py:186} INFO - Started process (PID=960) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:49:18.927+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:49:18.932+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:49:18.931+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:49:18.973+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:49:19.023+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:49:19.023+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:49:19.046+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:49:19.045+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:49:19.084+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T22:49:49.198+0000] {processor.py:186} INFO - Started process (PID=965) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:49:49.200+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:49:49.205+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:49:49.205+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:49:49.245+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:49:49.320+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:49:49.320+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:49:49.348+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:49:49.348+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:49:49.381+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.192 seconds
+[2026-10-18T22:50:19.707+0000] {processor.py:186} INFO - Started process (PID=970) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:50:19.709+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:50:19.713+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:50:19.712+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:50:19.743+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:50:19.787+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:50:19.787+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:50:19.838+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:50:19.837+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:50:19.890+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.189 seconds
+[2026-10-18T22:50:50.293+0000] {processor.py:186} INFO - Started process (PID=975) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:50:50.296+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:50:50.300+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:50:50.300+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:50:50.336+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:50:50.428+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:50:50.427+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:50:50.481+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:50:50.481+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:50:50.531+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.246 seconds
+[2026-10-18T22:51:20.846+0000] {processor.py:186} INFO - Started process (PID=980) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:51:20.848+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:51:20.852+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:51:20.852+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:51:20.889+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:51:20.970+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:51:20.970+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:51:21.022+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:51:21.022+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:51:21.073+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.237 seconds
+[2026-10-18T22:51:51.192+0000] {processor.py:186} INFO - Started process (PID=985) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:51:51.195+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:51:51.224+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:51:51.222+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:51:51.321+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:51:51.404+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:51:51.403+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:51:51.429+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:51:51.429+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:51:51.469+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.306 seconds
+[2026-10-18T22:52:21.700+0000] {processor.py:186} INFO - Started process (PID=990) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:52:21.703+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:52:21.708+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:52:21.707+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:52:21.748+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:52:21.795+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:52:21.795+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:52:21.833+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:52:21.832+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:52:21.861+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.173 seconds
+[2026-10-18T22:52:52.094+0000] {processor.py:186} INFO - Started process (PID=995) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:52:52.096+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:52:52.102+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:52:52.101+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:52:52.141+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:52:52.193+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:52:52.193+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:52:52.214+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:52:52.214+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:52:52.245+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.163 seconds
+[2026-10-18T22:53:22.507+0000] {processor.py:186} INFO - Started process (PID=1000) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:53:22.510+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:53:22.516+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:53:22.515+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:53:22.550+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:53:22.595+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:53:22.595+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:53:22.620+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:53:22.619+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:53:22.657+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.160 seconds
+[2026-10-18T22:53:52.873+0000] {processor.py:186} INFO - Started process (PID=1005) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:53:52.877+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:53:52.882+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:53:52.882+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:53:52.933+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:53:52.983+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:53:52.983+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:53:53.004+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:53:53.004+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:53:53.039+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.179 seconds
+[2026-10-18T22:54:23.298+0000] {processor.py:186} INFO - Started process (PID=1010) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:54:23.301+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:54:23.306+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:54:23.306+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:54:23.344+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:54:23.396+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:54:23.396+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:54:23.419+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:54:23.418+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:54:23.455+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.166 seconds
+[2026-10-18T22:54:53.753+0000] {processor.py:186} INFO - Started process (PID=1015) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:54:53.755+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:54:53.759+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:54:53.758+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:54:53.798+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:54:53.844+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:54:53.844+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:54:53.880+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:54:53.880+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:54:53.934+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.193 seconds
+[2026-10-18T22:55:24.069+0000] {processor.py:186} INFO - Started process (PID=1020) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:55:24.071+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:55:24.075+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:55:24.074+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:55:24.115+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:55:24.174+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:55:24.174+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:55:24.196+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:55:24.196+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:55:24.234+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.174 seconds
+[2026-10-18T22:55:54.597+0000] {processor.py:186} INFO - Started process (PID=1025) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:55:54.599+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:55:54.603+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:55:54.602+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:55:54.637+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:55:54.691+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:55:54.690+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:55:54.716+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:55:54.716+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:55:54.792+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.203 seconds
+[2026-10-18T22:56:24.930+0000] {processor.py:186} INFO - Started process (PID=1030) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:56:24.933+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:56:24.938+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:56:24.938+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:56:24.980+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:56:25.032+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:56:25.031+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:56:25.054+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:56:25.054+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:56:25.090+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T22:56:55.431+0000] {processor.py:186} INFO - Started process (PID=1035) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:56:55.434+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:56:55.440+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:56:55.440+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:56:55.475+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:56:55.522+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:56:55.522+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:56:55.542+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:56:55.542+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:56:55.572+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.151 seconds
+[2026-10-18T22:57:25.751+0000] {processor.py:186} INFO - Started process (PID=1040) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:57:25.754+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:57:25.758+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:57:25.758+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:57:25.791+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:57:25.835+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:57:25.835+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:57:25.888+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:57:25.887+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:57:25.927+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.189 seconds
+[2026-10-18T22:57:56.290+0000] {processor.py:186} INFO - Started process (PID=1045) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:57:56.293+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:57:56.299+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:57:56.298+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:57:56.349+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:57:56.410+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:57:56.409+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:57:56.440+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:57:56.440+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:57:56.487+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.208 seconds
+[2026-10-18T22:58:26.607+0000] {processor.py:186} INFO - Started process (PID=1050) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:58:26.611+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:58:26.615+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:58:26.615+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:58:26.650+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:58:26.700+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:58:26.699+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:58:26.722+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:58:26.722+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:58:26.759+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.162 seconds
+[2026-10-18T22:58:57.109+0000] {processor.py:186} INFO - Started process (PID=1055) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:58:57.112+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:58:57.116+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:58:57.116+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:58:57.153+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:58:57.200+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:58:57.199+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:58:57.221+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:58:57.220+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:58:57.255+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.154 seconds
+[2026-10-18T22:59:27.432+0000] {processor.py:186} INFO - Started process (PID=1060) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:59:27.435+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:59:27.440+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:59:27.439+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:59:27.474+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:59:27.519+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:59:27.519+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:59:27.552+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:59:27.552+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:59:27.633+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.212 seconds
+[2026-10-18T22:59:57.961+0000] {processor.py:186} INFO - Started process (PID=1065) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:59:57.964+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T22:59:57.970+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:59:57.969+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:59:58.010+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T22:59:58.061+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:59:58.061+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T22:59:58.083+0000] {logging_mixin.py:190} INFO - [2026-10-18T22:59:58.082+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T22:59:58.129+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.178 seconds
+[2026-10-18T23:00:28.283+0000] {processor.py:186} INFO - Started process (PID=1070) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:00:28.286+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:00:28.289+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:00:28.289+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:00:28.320+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:00:28.359+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:00:28.359+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:00:28.377+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:00:28.377+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:00:28.411+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.136 seconds
+[2026-10-18T23:00:59.007+0000] {processor.py:186} INFO - Started process (PID=1075) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:00:59.009+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:00:59.014+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:00:59.013+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:00:59.060+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:00:59.108+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:00:59.108+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:00:59.131+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:00:59.131+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:00:59.197+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.199 seconds
+[2026-10-18T23:01:29.313+0000] {processor.py:186} INFO - Started process (PID=1080) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:01:29.316+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:01:29.320+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:01:29.319+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:01:29.359+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:01:29.416+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:01:29.416+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:01:29.439+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:01:29.438+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:01:29.473+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T23:01:59.835+0000] {processor.py:186} INFO - Started process (PID=1085) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:01:59.839+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:01:59.844+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:01:59.843+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:01:59.877+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:01:59.924+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:01:59.923+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:01:59.946+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:01:59.946+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:01:59.984+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.159 seconds
+[2026-10-18T23:02:30.171+0000] {processor.py:186} INFO - Started process (PID=1090) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:02:30.173+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:02:30.177+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:02:30.176+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:02:30.218+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:02:30.271+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:02:30.270+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:02:30.295+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:02:30.295+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:02:30.338+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.178 seconds
+[2026-10-18T23:03:00.641+0000] {processor.py:186} INFO - Started process (PID=1095) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:03:00.644+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:03:00.649+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:03:00.649+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:03:00.692+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:03:00.738+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:03:00.737+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:03:00.759+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:03:00.759+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:03:00.796+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.165 seconds
+[2026-10-18T23:03:31.033+0000] {processor.py:186} INFO - Started process (PID=1100) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:03:31.038+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:03:31.045+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:03:31.044+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:03:31.090+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:03:31.145+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:03:31.145+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:03:31.168+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:03:31.168+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:03:31.207+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.183 seconds
+[2026-10-18T23:04:01.548+0000] {processor.py:186} INFO - Started process (PID=1105) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:04:01.553+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:04:01.558+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:04:01.558+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:04:01.620+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:04:01.714+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:04:01.714+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:04:01.738+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:04:01.737+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:04:01.765+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.245 seconds
+[2026-10-18T23:04:31.841+0000] {processor.py:186} INFO - Started process (PID=1110) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:04:31.844+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:04:31.847+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:04:31.847+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:04:31.881+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:04:31.936+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:04:31.936+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:04:31.958+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:04:31.958+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:04:31.999+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.166 seconds
+[2026-10-18T23:05:02.142+0000] {processor.py:186} INFO - Started process (PID=1115) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:05:02.144+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:05:02.149+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:05:02.148+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:05:02.183+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:05:02.229+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:05:02.228+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:05:02.247+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:05:02.247+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:05:02.280+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.146 seconds
+[2026-10-18T23:05:32.819+0000] {processor.py:186} INFO - Started process (PID=1120) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:05:32.822+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:05:32.825+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:05:32.825+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:05:32.861+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:05:32.906+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:05:32.905+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:05:32.926+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:05:32.926+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:05:32.959+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.147 seconds
+[2026-10-18T23:06:03.160+0000] {processor.py:186} INFO - Started process (PID=1125) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:06:03.162+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:06:03.166+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:06:03.166+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:06:03.202+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:06:03.250+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:06:03.250+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:06:03.301+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:06:03.300+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:06:03.355+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.205 seconds
+[2026-10-18T23:06:33.627+0000] {processor.py:186} INFO - Started process (PID=1130) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:06:33.629+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:06:33.635+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:06:33.634+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:06:33.675+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:06:33.727+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:06:33.726+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:06:33.752+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:06:33.751+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:06:33.792+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.196 seconds
+[2026-10-18T23:07:03.965+0000] {processor.py:186} INFO - Started process (PID=1135) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:07:03.968+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:07:03.973+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:07:03.972+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:07:04.008+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:07:04.063+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:07:04.062+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:07:04.089+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:07:04.089+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:07:04.133+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.177 seconds
+[2026-10-18T23:07:34.438+0000] {processor.py:186} INFO - Started process (PID=1140) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:07:34.440+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:07:34.444+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:07:34.444+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:07:34.482+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:07:34.528+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:07:34.527+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:07:34.550+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:07:34.549+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:07:34.584+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.155 seconds
+[2026-10-18T23:08:04.754+0000] {processor.py:186} INFO - Started process (PID=1145) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:08:04.757+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:08:04.761+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:08:04.760+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:08:04.796+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:08:04.844+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:08:04.842+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:08:04.866+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:08:04.866+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:08:04.907+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.163 seconds
+[2026-10-18T23:08:35.207+0000] {processor.py:186} INFO - Started process (PID=1150) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:08:35.209+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:08:35.213+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:08:35.212+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:08:35.245+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:08:35.286+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:08:35.286+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:08:35.305+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:08:35.304+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:08:35.340+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.140 seconds
+[2026-10-18T23:09:05.526+0000] {processor.py:186} INFO - Started process (PID=1155) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:09:05.530+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:09:05.534+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:09:05.534+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:09:05.569+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:09:05.630+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:09:05.629+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:09:05.660+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:09:05.660+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:09:05.695+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.178 seconds
+[2026-10-18T23:09:36.005+0000] {processor.py:186} INFO - Started process (PID=1160) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:09:36.008+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:09:36.012+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:09:36.012+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:09:36.075+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:09:36.161+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:09:36.161+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:09:36.184+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:09:36.184+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:09:36.213+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.235 seconds
+[2026-10-18T23:10:06.347+0000] {processor.py:186} INFO - Started process (PID=1165) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:10:06.349+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:10:06.353+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:10:06.352+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:10:06.387+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:10:06.446+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:10:06.445+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:10:06.469+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:10:06.468+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:10:06.513+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.176 seconds
+[2026-10-18T23:10:37.064+0000] {processor.py:186} INFO - Started process (PID=1170) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:10:37.067+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:10:37.071+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:10:37.071+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:10:37.106+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:10:37.168+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:10:37.168+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:10:37.190+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:10:37.189+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:10:37.228+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.174 seconds
+[2026-10-18T23:11:07.359+0000] {processor.py:186} INFO - Started process (PID=1175) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:11:07.361+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:11:07.366+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:11:07.365+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:11:07.398+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:11:07.440+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:11:07.440+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:11:07.460+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:11:07.459+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:11:07.492+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.141 seconds
+[2026-10-18T23:11:37.863+0000] {processor.py:186} INFO - Started process (PID=1180) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:11:37.868+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:11:37.872+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:11:37.871+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:11:37.910+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:11:37.973+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:11:37.972+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:11:37.996+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:11:37.996+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:11:38.040+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.188 seconds
+[2026-10-18T23:12:08.176+0000] {processor.py:186} INFO - Started process (PID=1185) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:12:08.178+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:12:08.182+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:12:08.181+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:12:08.213+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:12:08.254+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:12:08.253+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:12:08.273+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:12:08.273+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:12:08.311+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.143 seconds
+[2026-10-18T23:12:38.494+0000] {processor.py:186} INFO - Started process (PID=1190) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:12:38.497+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:12:38.502+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:12:38.502+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:12:38.543+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:12:38.600+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:12:38.599+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:12:38.637+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:12:38.637+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:12:38.680+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.196 seconds
+[2026-10-18T23:13:09.042+0000] {processor.py:186} INFO - Started process (PID=1195) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:13:09.045+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:13:09.049+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:13:09.049+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:13:09.090+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:13:09.141+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:13:09.140+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:13:09.163+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:13:09.163+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:13:09.196+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.164 seconds
+[2026-10-18T23:13:39.354+0000] {processor.py:186} INFO - Started process (PID=1200) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:13:39.357+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:13:39.363+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:13:39.362+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:13:39.418+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:13:39.482+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:13:39.482+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:13:39.506+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:13:39.506+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:13:39.547+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.208 seconds
+[2026-10-18T23:14:09.839+0000] {processor.py:186} INFO - Started process (PID=1205) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:14:09.843+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:14:09.848+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:14:09.848+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:14:09.884+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:14:09.933+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:14:09.932+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:14:09.954+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:14:09.954+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:14:09.991+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.163 seconds
+[2026-10-18T23:14:40.178+0000] {processor.py:186} INFO - Started process (PID=1210) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:14:40.181+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:14:40.187+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:14:40.186+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:14:40.227+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:14:40.283+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:14:40.283+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:14:40.306+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:14:40.306+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:14:40.346+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.180 seconds
+[2026-10-18T23:15:10.612+0000] {processor.py:186} INFO - Started process (PID=1215) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:15:10.614+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:15:10.618+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:15:10.618+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:15:10.655+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:15:10.702+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:15:10.701+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:15:10.724+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:15:10.723+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:15:10.762+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.160 seconds
+[2026-10-18T23:15:41.224+0000] {processor.py:186} INFO - Started process (PID=1220) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:15:41.226+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:15:41.231+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:15:41.230+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:15:41.277+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:15:41.328+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:15:41.328+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:15:41.355+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:15:41.354+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:15:41.394+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.179 seconds
+[2026-10-18T23:16:11.559+0000] {processor.py:186} INFO - Started process (PID=1225) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:16:11.562+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:16:11.567+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:16:11.567+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:16:11.620+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:16:11.735+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:16:11.734+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:16:11.760+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:16:11.760+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:16:11.792+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.261 seconds
+[2026-10-18T23:16:42.056+0000] {processor.py:186} INFO - Started process (PID=1230) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:16:42.061+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:16:42.065+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:16:42.064+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:16:42.130+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:16:42.220+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:16:42.219+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:16:42.242+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:16:42.242+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:16:42.273+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.244 seconds
+[2026-10-18T23:17:12.447+0000] {processor.py:186} INFO - Started process (PID=1235) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:17:12.449+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:17:12.453+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:17:12.453+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:17:12.510+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:17:12.601+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:17:12.601+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:17:12.626+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:17:12.626+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:17:12.658+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.228 seconds
+[2026-10-18T23:17:42.912+0000] {processor.py:186} INFO - Started process (PID=1240) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:17:42.915+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:17:42.919+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:17:42.919+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:17:42.957+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:17:43.008+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:17:43.008+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:17:43.032+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:17:43.032+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:17:43.073+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T23:18:13.297+0000] {processor.py:186} INFO - Started process (PID=1245) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:18:13.299+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:18:13.304+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:18:13.303+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:18:13.339+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:18:13.387+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:18:13.386+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:18:13.408+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:18:13.408+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:18:13.447+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.160 seconds
+[2026-10-18T23:18:43.706+0000] {processor.py:186} INFO - Started process (PID=1250) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:18:43.709+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:18:43.713+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:18:43.713+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:18:43.748+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:18:43.794+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:18:43.794+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:18:43.819+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:18:43.818+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:18:43.856+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.160 seconds
+[2026-10-18T23:19:14.084+0000] {processor.py:186} INFO - Started process (PID=1255) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:19:14.087+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:19:14.091+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:19:14.091+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:19:14.130+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:19:14.184+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:19:14.184+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:19:14.207+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:19:14.207+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:19:14.245+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T23:19:44.498+0000] {processor.py:186} INFO - Started process (PID=1260) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:19:44.500+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:19:44.506+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:19:44.505+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:19:44.546+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:19:44.593+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:19:44.592+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:19:44.615+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:19:44.614+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:19:44.653+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.164 seconds
+[2026-10-18T23:20:14.880+0000] {processor.py:186} INFO - Started process (PID=1265) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:20:14.883+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:20:14.888+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:20:14.887+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:20:14.923+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:20:14.972+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:20:14.972+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:20:14.994+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:20:14.993+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:20:15.031+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.161 seconds
+[2026-10-18T23:20:45.510+0000] {processor.py:186} INFO - Started process (PID=1270) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:20:45.513+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:20:45.517+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:20:45.516+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:20:45.554+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:20:45.606+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:20:45.606+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:20:45.630+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:20:45.630+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:20:45.685+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.185 seconds
+[2026-10-18T23:21:15.893+0000] {processor.py:186} INFO - Started process (PID=1275) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:21:15.898+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:21:15.912+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:21:15.910+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:21:15.980+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:21:16.067+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:21:16.066+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:21:16.103+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:21:16.103+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:21:16.149+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.274 seconds
+[2026-10-18T23:21:46.388+0000] {processor.py:186} INFO - Started process (PID=1280) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:21:46.392+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:21:46.403+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:21:46.402+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:21:46.457+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:21:46.524+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:21:46.524+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:21:46.561+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:21:46.560+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:21:46.611+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.262 seconds
+[2026-10-18T23:22:16.811+0000] {processor.py:186} INFO - Started process (PID=1285) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:22:16.814+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:22:16.822+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:22:16.821+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:22:16.887+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:22:16.964+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:22:16.964+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:22:17.013+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:22:17.012+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:22:17.065+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.279 seconds
+[2026-10-18T23:22:47.269+0000] {processor.py:186} INFO - Started process (PID=1290) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:22:47.271+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:22:47.276+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:22:47.275+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:22:47.314+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:22:47.380+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:22:47.380+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:22:47.409+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:22:47.409+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:22:47.451+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.192 seconds
+[2026-10-18T23:23:17.719+0000] {processor.py:186} INFO - Started process (PID=1295) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:23:17.722+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:23:17.727+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:23:17.727+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:23:17.771+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:23:17.817+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:23:17.817+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:23:17.838+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:23:17.837+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:23:17.873+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.163 seconds
+[2026-10-18T23:23:48.190+0000] {processor.py:186} INFO - Started process (PID=1300) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:23:48.194+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:23:48.201+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:23:48.200+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:23:48.258+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:23:48.310+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:23:48.310+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:23:48.336+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:23:48.335+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:23:48.377+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.206 seconds
+[2026-10-18T23:24:18.631+0000] {processor.py:186} INFO - Started process (PID=1305) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:24:18.633+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:24:18.638+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:24:18.638+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:24:18.677+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:24:18.731+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:24:18.730+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:24:18.757+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:24:18.757+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:24:18.791+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T23:24:49.190+0000] {processor.py:186} INFO - Started process (PID=1310) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:24:49.192+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:24:49.195+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:24:49.195+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:24:49.232+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:24:49.275+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:24:49.275+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:24:49.297+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:24:49.297+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:24:49.334+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.152 seconds
+[2026-10-18T23:25:19.525+0000] {processor.py:186} INFO - Started process (PID=1315) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:25:19.528+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:25:19.533+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:25:19.532+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:25:19.571+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:25:19.628+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:25:19.627+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:25:19.655+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:25:19.654+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:25:19.697+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.182 seconds
+[2026-10-18T23:25:50.175+0000] {processor.py:186} INFO - Started process (PID=1320) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:25:50.177+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:25:50.181+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:25:50.181+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:25:50.217+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:25:50.275+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:25:50.275+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:25:50.304+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:25:50.304+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:25:50.339+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.173 seconds
+[2026-10-18T23:26:20.554+0000] {processor.py:186} INFO - Started process (PID=1325) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:26:20.557+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:26:20.562+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:26:20.561+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:26:20.605+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:26:20.667+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:26:20.666+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:26:20.689+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:26:20.688+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:26:20.730+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.190 seconds
+[2026-10-18T23:26:51.162+0000] {processor.py:186} INFO - Started process (PID=1330) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:26:51.164+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:26:51.176+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:26:51.175+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:26:51.217+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:26:51.269+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:26:51.269+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:26:51.293+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:26:51.292+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:26:51.338+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.187 seconds
+[2026-10-18T23:27:21.541+0000] {processor.py:186} INFO - Started process (PID=1335) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:27:21.544+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:27:21.551+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:27:21.550+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:27:21.592+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:27:21.640+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:27:21.640+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:27:21.663+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:27:21.663+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:27:21.706+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.175 seconds
+[2026-10-18T23:27:52.058+0000] {processor.py:186} INFO - Started process (PID=1340) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:27:52.061+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:27:52.065+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:27:52.065+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:27:52.115+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:27:52.167+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:27:52.166+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:27:52.190+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:27:52.190+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:27:52.231+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.181 seconds
+[2026-10-18T23:28:22.382+0000] {processor.py:186} INFO - Started process (PID=1345) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:28:22.385+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:28:22.390+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:28:22.389+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:28:22.436+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:28:22.493+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:28:22.492+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:28:22.521+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:28:22.521+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:28:22.563+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.190 seconds
+[2026-10-18T23:28:52.917+0000] {processor.py:186} INFO - Started process (PID=1350) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:28:52.920+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:28:52.923+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:28:52.923+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:28:52.960+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:28:53.007+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:28:53.007+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:28:53.029+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:28:53.029+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:28:53.059+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.150 seconds
+[2026-10-18T23:29:23.274+0000] {processor.py:186} INFO - Started process (PID=1355) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:29:23.276+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:29:23.282+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:29:23.281+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:29:23.322+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:29:23.389+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:29:23.388+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:29:23.436+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:29:23.435+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:29:23.485+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.221 seconds
+[2026-10-18T23:29:53.792+0000] {processor.py:186} INFO - Started process (PID=1360) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:29:53.795+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:29:53.799+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:29:53.799+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:29:53.835+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:29:53.877+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:29:53.877+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:29:53.899+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:29:53.899+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:29:53.938+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.158 seconds
+[2026-10-18T23:30:24.138+0000] {processor.py:186} INFO - Started process (PID=1365) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:30:24.142+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:30:24.147+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:30:24.146+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:30:24.187+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:30:24.243+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:30:24.242+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:30:24.268+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:30:24.267+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:30:24.312+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.184 seconds
+[2026-10-18T23:30:54.796+0000] {processor.py:186} INFO - Started process (PID=1370) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:30:54.799+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:30:54.804+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:30:54.804+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:30:54.846+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:30:54.894+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:30:54.894+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:30:54.918+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:30:54.918+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:30:54.950+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.166 seconds
+[2026-10-18T23:31:25.156+0000] {processor.py:186} INFO - Started process (PID=1375) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:31:25.160+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:31:25.165+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:31:25.164+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:31:25.226+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:31:25.316+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:31:25.315+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:31:25.351+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:31:25.350+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:31:25.397+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.250 seconds
+[2026-10-18T23:31:55.666+0000] {processor.py:186} INFO - Started process (PID=1380) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:31:55.670+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:31:55.677+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:31:55.676+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:31:55.735+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:31:55.797+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:31:55.796+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:31:55.827+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:31:55.826+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:31:55.879+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.226 seconds
+[2026-10-18T23:32:26.107+0000] {processor.py:186} INFO - Started process (PID=1385) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:32:26.110+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:32:26.114+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:32:26.113+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:32:26.151+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:32:26.197+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:32:26.197+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:32:26.217+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:32:26.216+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:32:26.255+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.158 seconds
+[2026-10-18T23:32:56.586+0000] {processor.py:186} INFO - Started process (PID=1390) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:32:56.589+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:32:56.593+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:32:56.593+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:32:56.631+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:32:56.691+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:32:56.690+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:32:56.715+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:32:56.715+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:32:56.752+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.177 seconds
+[2026-10-18T23:33:26.948+0000] {processor.py:186} INFO - Started process (PID=1395) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:33:26.951+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:33:26.956+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:33:26.956+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:33:27.011+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:33:27.061+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:33:27.060+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:33:27.089+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:33:27.089+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:33:27.120+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.181 seconds
+[2026-10-18T23:33:57.493+0000] {processor.py:186} INFO - Started process (PID=1400) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:33:57.496+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:33:57.500+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:33:57.499+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:33:57.535+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:33:57.589+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:33:57.588+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:33:57.613+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:33:57.613+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:33:57.654+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.170 seconds
+[2026-10-18T23:34:27.846+0000] {processor.py:186} INFO - Started process (PID=1405) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:34:27.850+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:34:27.857+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:34:27.856+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:34:27.909+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:34:27.970+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:34:27.969+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:34:27.995+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:34:27.995+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:34:28.038+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.203 seconds
+[2026-10-18T23:34:58.365+0000] {processor.py:186} INFO - Started process (PID=1410) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:34:58.370+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:34:58.374+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:34:58.373+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:34:58.412+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:34:58.470+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:34:58.470+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:34:58.498+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:34:58.498+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:34:58.529+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.174 seconds
+[2026-10-18T23:35:28.744+0000] {processor.py:186} INFO - Started process (PID=1415) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:35:28.747+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:35:28.754+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:35:28.753+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:35:28.798+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:35:28.860+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:35:28.860+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:35:28.887+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:35:28.887+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:35:28.930+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.200 seconds
+[2026-10-18T23:35:59.429+0000] {processor.py:186} INFO - Started process (PID=1420) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:35:59.432+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:35:59.437+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:35:59.437+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:35:59.481+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:35:59.536+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:35:59.536+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:35:59.561+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:35:59.561+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:35:59.606+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.190 seconds
+[2026-10-18T23:36:29.794+0000] {processor.py:186} INFO - Started process (PID=1425) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:36:29.797+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:36:29.801+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:36:29.801+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:36:29.849+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:36:29.912+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:36:29.912+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:36:29.940+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:36:29.940+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:36:29.986+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.201 seconds
+[2026-10-18T23:37:00.344+0000] {processor.py:186} INFO - Started process (PID=1430) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:37:00.348+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:37:00.352+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:37:00.352+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:37:00.397+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:37:00.450+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:37:00.450+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:37:00.491+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:37:00.491+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:37:00.530+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.196 seconds
+[2026-10-18T23:37:30.727+0000] {processor.py:186} INFO - Started process (PID=1435) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:37:30.730+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:37:30.735+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:37:30.734+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:37:30.777+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:37:30.832+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:37:30.831+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:37:30.858+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:37:30.858+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:37:30.903+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.187 seconds
+[2026-10-18T23:38:01.239+0000] {processor.py:186} INFO - Started process (PID=1440) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:38:01.243+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:38:01.248+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:38:01.247+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:38:01.289+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:38:01.336+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:38:01.335+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:38:01.363+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:38:01.362+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:38:01.403+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.175 seconds
+[2026-10-18T23:38:31.626+0000] {processor.py:186} INFO - Started process (PID=1445) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:38:31.631+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:38:31.636+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:38:31.636+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:38:31.677+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:38:31.729+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:38:31.728+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:38:31.753+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:38:31.752+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:38:31.793+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.177 seconds
+[2026-10-18T23:39:02.113+0000] {processor.py:186} INFO - Started process (PID=1450) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:39:02.116+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:39:02.121+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:39:02.120+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:39:02.168+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:39:02.218+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:39:02.218+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:39:02.244+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:39:02.244+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:39:02.283+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.182 seconds
+[2026-10-18T23:39:32.486+0000] {processor.py:186} INFO - Started process (PID=1455) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:39:32.490+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:39:32.495+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:39:32.494+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:39:32.536+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:39:32.593+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:39:32.592+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:39:32.616+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:39:32.616+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:39:32.663+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.188 seconds
+[2026-10-18T23:40:02.991+0000] {processor.py:186} INFO - Started process (PID=1460) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:40:02.993+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:40:02.998+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:40:02.997+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:40:03.038+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:40:03.092+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:40:03.092+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:40:03.118+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:40:03.118+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:40:03.149+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.169 seconds
+[2026-10-18T23:40:33.386+0000] {processor.py:186} INFO - Started process (PID=1465) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:40:33.389+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:40:33.393+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:40:33.392+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:40:33.429+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:40:33.477+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:40:33.476+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:40:33.498+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:40:33.498+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:40:33.535+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.158 seconds
+[2026-10-18T23:41:04.030+0000] {processor.py:186} INFO - Started process (PID=1470) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:41:04.033+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:41:04.037+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:41:04.037+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:41:04.073+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:41:04.120+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:41:04.120+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:41:04.142+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:41:04.142+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:41:04.182+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.161 seconds
+[2026-10-18T23:41:34.389+0000] {processor.py:186} INFO - Started process (PID=1475) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:41:34.392+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:41:34.396+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:41:34.396+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:41:34.448+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:41:34.502+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:41:34.502+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:41:34.528+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:41:34.528+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:41:34.571+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.192 seconds
+[2026-10-18T23:42:04.871+0000] {processor.py:186} INFO - Started process (PID=1480) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:42:04.873+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:42:04.878+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:42:04.878+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:42:04.905+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:42:04.936+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:42:04.936+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:42:04.950+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:42:04.950+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:42:04.972+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.107 seconds
+[2026-10-18T23:42:35.085+0000] {processor.py:186} INFO - Started process (PID=1485) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:42:35.087+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:42:35.090+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:42:35.090+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:42:35.111+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:42:35.137+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:42:35.137+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:42:35.149+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:42:35.149+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:42:35.170+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.090 seconds
+[2026-10-18T23:43:05.372+0000] {processor.py:186} INFO - Started process (PID=1490) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:43:05.374+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:43:05.376+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:43:05.376+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:43:05.406+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:43:05.470+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:43:05.470+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:43:05.484+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:43:05.484+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:43:05.508+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.148 seconds
+[2026-10-18T23:43:35.568+0000] {processor.py:186} INFO - Started process (PID=1495) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:43:35.571+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:43:35.574+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:43:35.574+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:43:35.595+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:43:35.622+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:43:35.622+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:43:35.633+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:43:35.633+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:43:35.653+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.090 seconds
+[2026-10-18T23:44:05.762+0000] {processor.py:186} INFO - Started process (PID=1500) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:44:05.764+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:44:05.766+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:44:05.766+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:44:05.784+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:44:05.809+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:44:05.809+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:44:05.823+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:44:05.823+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:44:05.840+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.082 seconds
+[2026-10-18T23:44:36.046+0000] {processor.py:186} INFO - Started process (PID=1505) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:44:36.047+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:44:36.049+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:44:36.049+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:44:36.071+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:44:36.102+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:44:36.101+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:44:36.115+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:44:36.115+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:44:36.135+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.093 seconds
+[2026-10-18T23:45:06.245+0000] {processor.py:186} INFO - Started process (PID=1510) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:45:06.247+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:45:06.249+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:45:06.249+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:45:06.271+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:45:06.304+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:45:06.304+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:45:06.319+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:45:06.319+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:45:06.337+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.096 seconds
+[2026-10-18T23:45:36.622+0000] {processor.py:186} INFO - Started process (PID=1515) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:45:36.624+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:45:36.627+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:45:36.627+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:45:36.652+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:45:36.684+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:45:36.683+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:45:36.696+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:45:36.695+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:45:36.714+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.097 seconds
+[2026-10-18T23:46:06.822+0000] {processor.py:186} INFO - Started process (PID=1520) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:46:06.823+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:46:06.825+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:46:06.825+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:46:06.845+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:46:06.876+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:46:06.876+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:46:06.900+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:46:06.899+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:46:06.917+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.102 seconds
+[2026-10-18T23:46:37.100+0000] {processor.py:186} INFO - Started process (PID=1525) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:46:37.102+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:46:37.105+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:46:37.104+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:46:37.122+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:46:37.147+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:46:37.147+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:46:37.158+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:46:37.158+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:46:37.176+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.081 seconds
+[2026-10-18T23:47:07.308+0000] {processor.py:186} INFO - Started process (PID=1530) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:47:07.310+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:47:07.312+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:47:07.312+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:47:07.332+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:47:07.362+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:47:07.361+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:47:07.374+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:47:07.374+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:47:07.394+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.090 seconds
+[2026-10-18T23:47:37.565+0000] {processor.py:186} INFO - Started process (PID=1535) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:47:37.567+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:47:37.569+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:47:37.569+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:47:37.585+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:47:37.609+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:47:37.608+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:47:37.619+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:47:37.619+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:47:37.635+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.074 seconds
+[2026-10-18T23:48:07.774+0000] {processor.py:186} INFO - Started process (PID=1540) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:48:07.775+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:48:07.777+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:48:07.777+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:48:07.795+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:48:07.821+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:48:07.820+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:48:07.836+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:48:07.836+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:48:07.855+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.085 seconds
+[2026-10-18T23:48:38.033+0000] {processor.py:186} INFO - Started process (PID=1545) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:48:38.034+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:48:38.037+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:48:38.037+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:48:38.054+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:48:38.077+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:48:38.077+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:48:38.087+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:48:38.087+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:48:38.101+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.073 seconds
+[2026-10-18T23:49:08.252+0000] {processor.py:186} INFO - Started process (PID=1550) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:49:08.253+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:49:08.255+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:49:08.255+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:49:08.274+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:49:08.298+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:49:08.298+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:49:08.308+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:49:08.308+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:49:08.322+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.075 seconds
+[2026-10-18T23:49:38.502+0000] {processor.py:186} INFO - Started process (PID=1555) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:49:38.503+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:49:38.506+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:49:38.505+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:49:38.523+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:49:38.546+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:49:38.546+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:49:38.556+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:49:38.556+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:49:38.570+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.072 seconds
+[2026-10-18T23:50:08.718+0000] {processor.py:186} INFO - Started process (PID=1560) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:50:08.719+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:50:08.721+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:50:08.721+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:50:08.738+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:50:08.765+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:50:08.765+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:50:08.777+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:50:08.777+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:50:08.792+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.078 seconds
+[2026-10-18T23:50:39.054+0000] {processor.py:186} INFO - Started process (PID=1565) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:50:39.055+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:50:39.058+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:50:39.058+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:50:39.076+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:50:39.100+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:50:39.099+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:50:39.110+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:50:39.110+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:50:39.126+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.076 seconds
+[2026-10-18T23:51:09.266+0000] {processor.py:186} INFO - Started process (PID=1570) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:51:09.267+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:51:09.270+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:51:09.270+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:51:09.289+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:51:09.315+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:51:09.315+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:51:09.340+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:51:09.339+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:51:09.360+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.099 seconds
+[2026-10-18T23:51:39.522+0000] {processor.py:186} INFO - Started process (PID=1575) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:51:39.525+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:51:39.529+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:51:39.529+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:51:39.555+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:51:39.605+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:51:39.605+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:51:39.632+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:51:39.632+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:51:39.655+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.139 seconds
+[2026-10-18T23:52:09.758+0000] {processor.py:186} INFO - Started process (PID=1580) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:52:09.759+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:52:09.761+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:52:09.761+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:52:09.781+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:52:09.827+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:52:09.826+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:52:09.855+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:52:09.855+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:52:09.880+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.127 seconds
+[2026-10-18T23:52:40.070+0000] {processor.py:186} INFO - Started process (PID=1585) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:52:40.071+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:52:40.074+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:52:40.073+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:52:40.094+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:52:40.117+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:52:40.117+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:52:40.128+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:52:40.128+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:52:40.144+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.079 seconds
+[2026-10-18T23:53:10.278+0000] {processor.py:186} INFO - Started process (PID=1590) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:53:10.279+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:53:10.281+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:53:10.281+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:53:10.298+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:53:10.322+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:53:10.321+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:53:10.332+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:53:10.332+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:53:10.347+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.073 seconds
+[2026-10-18T23:53:40.546+0000] {processor.py:186} INFO - Started process (PID=1595) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:53:40.548+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:53:40.550+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:53:40.549+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:53:40.567+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:53:40.590+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:53:40.590+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:53:40.603+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:53:40.602+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:53:40.618+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.077 seconds
+[2026-10-18T23:54:10.751+0000] {processor.py:186} INFO - Started process (PID=1600) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:54:10.752+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:54:10.754+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:54:10.754+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:54:10.774+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:54:10.800+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:54:10.800+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:54:10.821+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:54:10.821+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:54:10.848+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.102 seconds
+[2026-10-18T23:54:41.002+0000] {processor.py:186} INFO - Started process (PID=1605) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:54:41.003+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:54:41.006+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:54:41.005+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:54:41.024+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:54:41.047+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:54:41.046+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:54:41.057+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:54:41.056+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:54:41.077+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.080 seconds
+[2026-10-18T23:55:11.231+0000] {processor.py:186} INFO - Started process (PID=1610) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:55:11.232+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:55:11.234+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:55:11.234+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:55:11.252+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:55:11.278+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:55:11.278+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:55:11.290+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:55:11.289+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:55:11.304+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.078 seconds
+[2026-10-18T23:55:41.563+0000] {processor.py:186} INFO - Started process (PID=1615) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:55:41.564+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:55:41.566+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:55:41.566+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:55:41.583+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:55:41.608+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:55:41.608+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:55:41.619+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:55:41.619+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:55:41.634+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.075 seconds
+[2026-10-18T23:56:11.773+0000] {processor.py:186} INFO - Started process (PID=1620) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:56:11.774+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:56:11.776+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:56:11.776+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:56:11.793+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:56:11.818+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:56:11.818+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:56:11.830+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:56:11.830+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:56:11.846+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.077 seconds
+[2026-10-18T23:56:42.033+0000] {processor.py:186} INFO - Started process (PID=1625) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:56:42.034+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:56:42.036+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:56:42.036+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:56:42.053+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:56:42.076+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:56:42.076+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:56:42.086+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:56:42.086+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:56:42.099+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.071 seconds
+[2026-10-18T23:57:12.246+0000] {processor.py:186} INFO - Started process (PID=1630) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:57:12.247+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:57:12.249+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:57:12.249+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:57:12.266+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:57:12.290+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:57:12.290+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:57:12.301+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:57:12.301+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:57:12.315+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.074 seconds
+[2026-10-18T23:57:42.491+0000] {processor.py:186} INFO - Started process (PID=1635) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:57:42.493+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:57:42.494+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:57:42.494+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:57:42.511+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:57:42.534+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:57:42.534+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:57:42.546+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:57:42.545+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:57:42.559+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.072 seconds
+[2026-10-18T23:58:12.696+0000] {processor.py:186} INFO - Started process (PID=1640) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:58:12.697+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:58:12.699+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:58:12.699+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:58:12.716+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:58:12.740+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:58:12.739+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:58:12.750+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:58:12.750+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:58:12.765+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.073 seconds
+[2026-10-18T23:58:42.967+0000] {processor.py:186} INFO - Started process (PID=1645) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:58:42.968+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:58:42.970+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:58:42.970+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:58:42.987+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:58:43.011+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:58:43.010+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:58:43.021+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:58:43.021+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:58:43.036+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.073 seconds
+[2026-10-18T23:59:13.181+0000] {processor.py:186} INFO - Started process (PID=1650) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:59:13.182+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:59:13.184+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:59:13.184+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:59:13.201+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:59:13.225+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:59:13.225+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:59:13.236+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:59:13.235+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:59:13.250+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.074 seconds
+[2026-10-18T23:59:43.445+0000] {processor.py:186} INFO - Started process (PID=1655) to work on /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:59:43.447+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/siniestralidad_etl.py for tasks to queue
+[2026-10-18T23:59:43.449+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:59:43.449+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:59:43.480+0000] {processor.py:925} INFO - DAG(s) 'siniestralidad_cali_etl' retrieved from /opt/airflow/dags/siniestralidad_etl.py
+[2026-10-18T23:59:43.518+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:59:43.518+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-10-18T23:59:43.538+0000] {logging_mixin.py:190} INFO - [2026-10-18T23:59:43.537+0000] {dag.py:4180} INFO - Setting next_dagrun for siniestralidad_cali_etl to None, run_after=None
+[2026-10-18T23:59:43.566+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/siniestralidad_etl.py took 0.125 seconds
